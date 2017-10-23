@@ -1,0 +1,4 @@
+/* Kudos to @adamwathan for this trick! */
+[data-suggestion-json*="ActivityTweet"] {
+    display: none;
+}
